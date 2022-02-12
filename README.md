@@ -1,5 +1,4 @@
-#Google Play Store Apps Data Visualisation
-
+# Google Play Store Apps Data Visualisation
 
 This is a group project conducted in Msc Data Analytics Sep 2022 , mainly focused on Data Visualisation.
 Mainly 3 technologies are used for this project.
@@ -15,4 +14,4 @@ Mainly 3 technologies are used for this project.
 3. Mani Sujil Kumar
 
 Dataset Source
-https://www.kaggle.com/lava18/google-play-store-apps?select=googleplaystore.csv
+For more information, see <https://www.kaggle.com/lava18/google-play-store-apps?select=googleplaystore.csv>
