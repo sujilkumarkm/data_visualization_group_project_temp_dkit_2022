@@ -1,6 +1,6 @@
 # Google Play Store Apps Data Visualisation
 
-This is a group project conducted in Msc Data Analytics Sep 2022 , mainly focused on Data Visualisation.
+This is a group project conducted at DKIT, Ireland in Msc Data Analytics Sep 2022 , mainly focused on Data Visualisation.
 Mainly 3 technologies are used for this project.
 
 1. Microsoft Excel
