@@ -1,0 +1,3 @@
+Title - PlaystoreApps Dashboard
+Filters/ slicers - Category, genre, content, type
+rest all for graphs.
