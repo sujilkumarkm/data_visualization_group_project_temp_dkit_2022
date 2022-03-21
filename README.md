@@ -20,7 +20,7 @@ The dataset(googleplaystore.csv) contains the details of the different apps avai
 
 For more information, see <https://www.kaggle.com/lava18/google-play-store-apps?select=googleplaystore.csv>
 
-#### Detials about Files in repo
+#### Details about Files in repo
 
 googleplaystore.csv : dataset used
 ginu_diary.md, ravi_diary.md, sujil_diary.md : diaries of team members
